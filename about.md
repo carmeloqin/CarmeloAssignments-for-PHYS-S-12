@@ -4,5 +4,5 @@ title: About
 permalink: /about/
 ---
 
-This is Zezhong's webpage for PHYS-S12: Introduction to Digital Fabrication
+This is Carmelo's webpage for PHYS-S12: Introduction to Digital Fabrication
 
